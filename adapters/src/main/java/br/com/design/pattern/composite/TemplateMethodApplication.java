@@ -1,4 +1,4 @@
-package br.com.design.pattern.observer;
+package br.com.design.pattern.composite;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
